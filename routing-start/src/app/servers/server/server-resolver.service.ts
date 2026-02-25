@@ -1,6 +1,7 @@
 import {
   ActivatedRouteSnapshot,
   Resolve,
+  ResolveData,
   RouterStateSnapshot,
 } from '@angular/router';
 import { Observable } from 'rxjs';
