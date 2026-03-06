@@ -37,7 +37,7 @@ const appRoutes: Routes = [
       },
     ],
   },
-  // { path: 'not-found', component: PageNotFoundComponent },
+  // ?{ path: 'not-found', component: PageNotFoundComponent },
   {
     path: 'not-found',
     component: ErrorPageComponent,
